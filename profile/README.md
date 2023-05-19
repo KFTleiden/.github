@@ -8,7 +8,7 @@ For more information on the department, visit the page https://www.lumc.nl/org/k
 
  * [PREPARE](https://github.com/KFTleiden/PREPARE): Pre-emptive pharmacogenetic testing
 
-## Statistical Genetics
+## Statistical Genetics & Omics Data
 
  * [plausibility](https://github.com/KFTleiden/plausibility): Analysis of high-dimensional omics data
 
